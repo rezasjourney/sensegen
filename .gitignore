@@ -1,6 +1,11 @@
 .ipynb_checkpoints/
 __pycache__/
+
 # training data
 dataset/
+
 # pre-trained models
 models/*
+
+# pyc files
+*.pyc
